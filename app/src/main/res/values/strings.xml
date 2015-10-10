@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saving Key-Value Sets</string>
+    
+    <string name="saved_high_score">100000</string>
+</resources>
